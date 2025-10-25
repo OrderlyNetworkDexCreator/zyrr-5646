@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Swap,Vaults,Leaderboard,Rewards",
   "VITE_CUSTOM_MENUS": "",
-  "VITE_ENABLE_CAMPAIGNS": "false",
+  "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "",
@@ -34,5 +34,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00C896\",\"downColor\":\"#F7525F\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#131722\"}"
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"\",\"downColor\":\"#ac5399\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#ac5399\",\"chartBG\":\"#000000\"}"
 };
